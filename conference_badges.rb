@@ -15,4 +15,4 @@ def assign_rooms(attendees)
   new array =[]
   room = 1
   attendees.each do |attend|
-    assign = 
+    assign = "Hello, #{attend}! You'll be assigned to room #{room}!"
