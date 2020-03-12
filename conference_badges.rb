@@ -19,4 +19,5 @@ def assign_rooms(attendees)
     room +=1
     new_array << assign
   end
+  new_array
 end
