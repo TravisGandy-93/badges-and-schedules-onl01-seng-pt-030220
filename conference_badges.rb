@@ -11,4 +11,8 @@ def batch_badge_creator(speakers)
   new_array
 end
 
-def assign_rooms
+def assign_rooms(attendees)
+  new array =[]
+  room = 1
+  attendees.each do |attend|
+    assign = 
